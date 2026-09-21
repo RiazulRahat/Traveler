@@ -1,0 +1,338 @@
+[
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Traveler.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/TravelerCharacter.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/TravelerGameMode.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/TravelerPlayerController.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/AI/CombatAIController.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/AI/CombatEnemy.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/AI/CombatEnemySpawner.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/AI/CombatStateTreeUtility.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/AI/EnvQueryContext_Danger.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/AI/EnvQueryContext_Player.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/Animation/AnimNotify_CheckChargedAttack.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/Animation/AnimNotify_CheckCombo.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/Animation/AnimNotify_DoAttackTrace.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/CombatCharacter.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/CombatGameMode.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/CombatPlayerController.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/Gameplay/CombatActivationVolume.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/Gameplay/CombatCheckpointVolume.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/Gameplay/CombatDamageableBox.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/Gameplay/CombatDummy.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/Gameplay/CombatLavaFloor.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/Interfaces/CombatActivatable.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/Interfaces/CombatAttacker.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/Interfaces/CombatDamageable.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Combat/UI/CombatLifeBar.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Platforming/Animation/AnimNotify_EndDash.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Platforming/PlatformingCharacter.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Platforming/PlatformingGameMode.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_Platforming/PlatformingPlayerController.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_SideScrolling/AI/SideScrollingAIController.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_SideScrolling/AI/SideScrollingNPC.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_SideScrolling/AI/SideScrollingStateTreeUtility.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_SideScrolling/Gameplay/SideScrollingJumpPad.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_SideScrolling/Gameplay/SideScrollingMovingPlatform.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_SideScrolling/Gameplay/SideScrollingPickup.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_SideScrolling/Gameplay/SideScrollingSoftPlatform.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_SideScrolling/Interfaces/SideScrollingInteractable.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_SideScrolling/SideScrollingCameraManager.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_SideScrolling/SideScrollingCharacter.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_SideScrolling/SideScrollingGameMode.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_SideScrolling/SideScrollingPlayerController.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/Source/Traveler/Variant_SideScrolling/UI/SideScrollingUI.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/riazulislamrahat/Developer/Unreal Projects/Traveler/.vscode/compileCommands_Traveler/Traveler.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	}
+]
